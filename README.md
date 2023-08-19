@@ -5,7 +5,6 @@
 
 <ul>
   <li> I have experience working with JavaScript on NodeJS, React, Redux, PostgreSQL with Sequelize, and other ones. Fully passionate about technology and web development</li>
-  <li>Psychologist by profession with an emphasis on Organizational Processes.</li>
 </ul>
 
 <h3 align="center">📖</h3>
