@@ -4,14 +4,13 @@
 <h3 align="center">👨‍💻</h3>
 
 <ul>
-  <li> I have experience working with JavaScript on NodeJS, React, Redux, PostgreSQL with Sequelize, and other ones. Fully passionate about technology and web development</li>
+  <li> Professional with experience in full-stack web development. Experienced in creating E-Commerce software and
+implementing various frontend and backend functionalities such as product filters, shopping cart management,
+admin dashboard, API pagination, authentication, and authorization. Proficient in React, React-Native/Redux,
+Typescript, state machines, HTML and CSS (Frontend), NodeJs, Express, GrahpQL, and PostgreSQL with Sequelize
+(Backend). Possess soft skills including leadership, teamwork, autonomy, assertive communication, and continuous
+learning.</li>
 </ul>
-
-<h3 align="center">📖</h3>
-
-- 🔭 I'm currently creating my own Portfolio Web
-- 🌱 I'm currently learning properly css and responsive desing 
-- 📫 How to reach me: <a href="mailto:jhonsp101@gmail.com">jhonsp101@gmail.com</a>
 
 <h3 align="center">🙆🏽‍♂️</h3>
 <ul>
